@@ -10,5 +10,5 @@ The output can be configured to console, ElasticSearh, Kafka and Logstash - ssl 
 
 ## Tags
 
-* 7.8.0 (latest)
+* 7.9.2 (latest)
 * 7.1.1
